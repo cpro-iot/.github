@@ -21,7 +21,7 @@
 }
             </style>
             <image width="400" height="200" id="logo_light_mode" href="cpro.png" />
-            <image href="cpro.png" />
+            <image preserveAspectRatio="xMaxYMin" x="0" y="0" width="100%" height="100%" href="cpro.png" />
         </div>
     </foreignObject>
 </svg>
