@@ -1,5 +1,5 @@
-![Cpro IoT Connect](cpro-dark.png#gh-dark-mode-only)
-![Cpro IoT Connect](cpro-light.png#gh-light-mode-only)
+![Cpro IoT Connect](cpro-dark.png#gh-light-mode-only)
+![Cpro IoT Connect](cpro-light.png#gh-dark-mode-only)
 
 
 # Willkommen bei der Cpro IoT Connect GmbH 👋
