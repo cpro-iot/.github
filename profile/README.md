@@ -1,6 +1,11 @@
 ![Cpro IoT Connect](cpro-dark.png#gh-light-mode-only)
 ![Cpro IoT Connect](cpro-light.png#gh-dark-mode-only)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./cpro-dark.png">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./cpro-light.png">
+</picture>
+
 
 # Willkommen bei der Cpro IoT Connect GmbH 👋
 
