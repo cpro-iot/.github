@@ -7,7 +7,7 @@
 <div align="left" ><img style="width:50%;" src="cpro.svg" /></div>
 
 ## Wir sind...
-![IoT Logo](https://www.cpro-iot.de/wp-content/uploads/Titelbild_Website-2021_Variante-3-Kopie.png "Cpro IoT Connect GmbH")
+<!-- ![IoT Logo](https://www.cpro-iot.de/wp-content/uploads/Titelbild_Website-2021_Variante-3-Kopie.png "Cpro IoT Connect GmbH")-->
 
 
 ## Wir lieben...
