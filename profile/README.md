@@ -1,10 +1,10 @@
 <style>
 
-#logo_light_mode {
+#user-content-logo_light_mode {
     display: var(--md-footer-logo-light-mode);
 }
 
-#logo_dark_mode {
+#user-content-logo_dark_mode {
     display: var(--md-footer-logo-dark-mode);
 }
 
