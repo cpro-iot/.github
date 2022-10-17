@@ -20,8 +20,8 @@
     --md-footer-logo-light-mode:         none;
 }
             </style>
-            <image width="400" id="logo_light_mode" href="cpro.png" />
-            <img id="logo_dark_mode" src="cpro.png" />
+            <image width="400" height="200" id="logo_light_mode" href="cpro.png" />
+            <image href="cpro.png" />
         </div>
     </foreignObject>
 </svg>
