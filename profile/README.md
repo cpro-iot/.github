@@ -20,7 +20,7 @@
 
 </style>
 
-<div align="left"><img id="logo_dark_mode" src="cpro.png" /></div>
+<div align="left"><img id="logo_dark_mode" style="width:50%;" src="cpro.png" /></div>
 <div align="left"><img id="logo_light_mode" src="cpro.png" /></div>
 
 # Willkommen bei der Cpro IoT Connect GmbH 👋
