@@ -1,5 +1,10 @@
-![Cpro IoT Connect](cpro-dark.png#gh-dark-mode-only)
-![Cpro IoT Connect](cpro-light.png#gh-light-mode-only)
+![Cpro IoT Connect](cpro-dark.png#gh-light-mode-only)
+![Cpro IoT Connect](cpro-light.png#gh-dark-mode-only)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./cpro-light.png">
+  <img width="66%" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./cpro-dark.png">
+</picture>
 
 
 # Willkommen bei der Cpro IoT Connect GmbH 👋
@@ -7,7 +12,7 @@
 <div align="left" ><img style="width:50%;" src="cpro.svg" /></div>
 
 ## Wir sind...
-![IoT Logo](https://www.cpro-iot.de/wp-content/uploads/Titelbild_Website-2021_Variante-3-Kopie.png "Cpro IoT Connect GmbH")
+<!-- ![IoT Logo](https://www.cpro-iot.de/wp-content/uploads/Titelbild_Website-2021_Variante-3-Kopie.png "Cpro IoT Connect GmbH")-->
 
 
 ## Wir lieben...
