@@ -1,29 +1,9 @@
-<style>
-
-#logo_light_mode {
-    display: var(--md-footer-logo-light-mode);
-}
-
-#logo_dark_mode {
-    display: var(--md-footer-logo-dark-mode);
-}
-
-[data-md-color-scheme="light-mode"] {
-    --md-footer-logo-dark-mode:         none;
-    --md-footer-logo-light-mode:         block;
-}
-
-[data-md-color-scheme="dark-mode"] {
-    --md-footer-logo-dark-mode:         block;
-    --md-footer-logo-light-mode:         none;
-}
-
-</style>
-
-<div align="left"><img id="logo_dark_mode" src="cpro.png" /></div>
+<div align="left"><img id="logo_dark_mode" style="width:50%;background-color:black;" src="cpro.png" /></div>
 <div align="left"><img id="logo_light_mode" src="cpro.png" /></div>
 
 # Willkommen bei der Cpro IoT Connect GmbH 👋
+
+<div align="left" ><img style="width:50%;" src="cpro.svg" /></div>
 
 ## Wir sind...
 ![IoT Logo](https://www.cpro-iot.de/wp-content/uploads/Titelbild_Website-2021_Variante-3-Kopie.png "Cpro IoT Connect GmbH")
