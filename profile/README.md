@@ -1,4 +1,4 @@
-<style>
+<style type="text/css">
 
 #user-content-logo_light_mode {
     display: var(--md-footer-logo-light-mode);
