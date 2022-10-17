@@ -3,7 +3,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cpro-light.png">
-  <img width="75%" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./cpro-dark.png">
+  <img width="66%" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./cpro-dark.png">
 </picture>
 
 
