@@ -1,7 +1,33 @@
+<style>
+
+#logo_light_mode {
+    display: var(--md-footer-logo-light-mode);
+}
+
+#logo_dark_mode {
+    display: var(--md-footer-logo-dark-mode);
+}
+
+[data-md-color-scheme="light-mode"] {
+    --md-footer-logo-dark-mode:         none;
+    --md-footer-logo-light-mode:         block;
+}
+
+[data-md-color-scheme="dark-mode"] {
+    --md-footer-logo-dark-mode:         block;
+    --md-footer-logo-light-mode:         none;
+}
+
+</style>
+
+<div align="left"><img id="logo_dark_mode" src="cpro.png" /></div>
+<div align="left"><img id="logo_light_mode" src="cpro.png" /></div>
+
 # Willkommen bei der Cpro IoT Connect GmbH 👋
 
 ## Wir sind...
 ![IoT Logo](https://www.cpro-iot.de/wp-content/uploads/Titelbild_Website-2021_Variante-3-Kopie.png "Cpro IoT Connect GmbH")
+
 
 ## Wir lieben...
 ![SAP](https://img.shields.io/badge/SAP-Connectivity-Gold?labelColor=white&style=?style=flat-square&logo=sap&color=f0ab00)
