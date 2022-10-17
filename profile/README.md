@@ -1,4 +1,4 @@
-![Cpro IoT Connect](cpro-light.png#gh-dark-mode-only|width=75)
+![Cpro IoT Connect](cpro-light.png |width=75 #gh-dark-mode-only)
 ![Cpro IoT Connect](cpro-dark.png#gh-light-mode-only|width=75)
 
 
