@@ -16,7 +16,7 @@ We connect established IT landscapes such as ERP-systems to modern shopfloor IoT
 We integrate latest technologies with battle-tested infrastructure and accelerate digital transformations of customers ranging from middle sized companies to large cap corporates - beginning with simple connectivity solutions up to fully-fledged IoT-Platform solutions with Augmented Reality capabilities.
 
 <p align="center">
-    <a style="display: block; margin-left:50px; margin-top:5px; margin-bottom:5px; height: 100px; width: 500px; background: #003064; color: rgba(225, 158, 25, 1); border: 1px solid rgba(225, 158, 25, 1); text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" class="cta" href="https://www.cpro-iot.de/kontakt/">Contact us</a></div>
+    <a style="display: block; height: 100px; width: 500px; background: #003064; color: rgba(225, 158, 25, 1); border: 1px solid rgba(225, 158, 25, 1); text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" class="cta" href="https://www.cpro-iot.de/kontakt/">Contact us</a>
 </p>
 
 Check our [website](https://www.cpro-iot.com), visit us in one of our [six offices](https://www.cpro-iot.de/unternehmensprofil/#standorte) in Germany or drop us an [email](https://www.cpro-iot.de/kontakt/) to get in touch and learn more!
