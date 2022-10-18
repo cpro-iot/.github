@@ -17,10 +17,10 @@ We integrate latest technologies with battle-tested infrastructure and accelerat
 
 <p align="center">
 <svg viewBox="0 0 610 150" xmlns="http://www.w3.org/2000/svg" style="width:33%">
-
+    
   <!-- Common use case: embed HTML text into SVG -->
   <foreignObject x="0" y="5" width="605" height="150">
-  <style>    
+    <style>    
     .cta {                
         display: block; margin-left:50px; margin-top:5px; margin-bottom:5px; height: 100px; width: 500px; background: #003064; color: rgba(225, 158, 25, 1); border: 1px solid rgba(225, 158, 25, 1); text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;
     }
@@ -30,13 +30,9 @@ We integrate latest technologies with battle-tested infrastructure and accelerat
   -moz-box-shadow: 1px 10px 9px 6px rgba(225, 158, 25, 1);
   box-shadow: 1px 1px 9px 6px rgba(225, 158, 25, 1);
     }
-  </style>
-    <!--
-      In the context of SVG embedded in an HTML document, the XHTML
-      namespace could be omitted, but it is mandatory in the
-      context of an SVG document
-    -->    
-    <p align="center" xmlns="http://www.w3.org/1999/xhtml"><a xmlns="http://www.w3.org/1999/xhtml" class="cta" style=" href="https://www.cpro-iot.de/kontakt/">Contact us</a></p>
+  </style>  
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <a class="cta" style=" href="https://www.cpro-iot.de/kontakt/">Contact us</a></div>
   </foreignObject>
 </svg></p>
 
