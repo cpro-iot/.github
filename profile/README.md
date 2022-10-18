@@ -32,7 +32,7 @@ We integrate latest technologies with battle-tested infrastructure and accelerat
   <foreignObject x="0" y="5" width="605" height="150">
     
   <div xmlns="http://www.w3.org/1999/xhtml">
-    <a class="cta" style=" href="https://www.cpro-iot.de/kontakt/">Contact us</a></div>
+    <a class="cta" href="https://www.cpro-iot.de/kontakt/">Contact us</a></div>
   </foreignObject>
 </svg></p>
 
