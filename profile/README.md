@@ -28,7 +28,7 @@ We maintain strong partnerships with industry leaders.
 ![SAP Gold Partner](sap-gold.png height=80) ![PTC Partner](ptc.png height=60)
 
 <p float="left" align="center">
-  <img src="sap-gold.png" height="80"  />
+  <img src="sap-gold.png" height="80"  />&nbsp;
   <img src="ptc.png" height="80" style="padding-left:100px" />   
 </p>
 
