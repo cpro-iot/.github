@@ -25,12 +25,11 @@ Check our [website](https://www.cpro-iot.com), visit us in one of our [six offic
 ## Partners
 
 We maintain strong partnerships with industry leaders.
-<p align="center"><img src="sap-gold.png" height="80" style="margin-right:40px" /><img style="margin-left:20px" src="ptc.png" height="60" /></p>
+<p align="center"></p>
 <div style="text-align:center; margin:auto; width:650px">
-    <div style="margin: 0px 25px 10px 20px; float:left;"></div>
-    <div style="margin: 0 25px 10px 20px; float:left;"></div>
+    <div style="margin: 0px 25px 10px 20px; float:left;"><img src="sap-gold.png" height="80" /></div>
+    <div style="margin: 0 25px 10px 20px;"><img src="ptc.png" height="60" /></div>
     <div style="clear:both; margin-bottom:2em;"></div>
-    
 </div>
 
 <!--
