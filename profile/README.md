@@ -28,7 +28,7 @@ We maintain strong partnerships with industry leaders.
 <p align="center"></p>
 <div style="text-align:center; margin:auto; width:650px">
     <div style="margin: 0px 25px 10px 20px; float:left;"><img src="sap-gold.png" height="80" /></div>
-    <div style="margin: 0 25px 10px 20px;"><img src="ptc.png" height="60" /></div>
+    <div style="float:left;"><img src="ptc.png" height="60" /></div>
     <div style="clear:both; margin-bottom:2em;"></div>
 </div>
 
