@@ -27,7 +27,7 @@ Check our [website](https://www.cpro-iot.com), visit us in one of our [six offic
 We maintain strong partnerships with industry leaders.
 ![SAP Gold Partner](sap-gold.png height=80) ![PTC Partner](ptc.png height=60)
 
-<p float="left">
+<p float="left" align="center">
   <img src="sap-gold.png" height="80" />
   <img src="ptc.png" height="80" />   
 </p>
