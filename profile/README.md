@@ -25,10 +25,10 @@ Check our [website](https://www.cpro-iot.com), visit us in one of our [six offic
 ## Partners
 
 We maintain strong partnerships with industry leaders.
-![SAP](sap-gold.png)
-![PTC](ptc.png)
-<p float="left" align="center">
 
+- ![SAP](sap-gold.png)
+- ![PTC](ptc.png)
+<p float="left" align="center">
 <!--
   <img src="sap-gold.png" height="80"  />&nbsp;&nbsp;
   <img src="ptc.png" height="80" style="padding-left:100px" />   -->
